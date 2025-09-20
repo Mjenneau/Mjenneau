@@ -25,11 +25,7 @@ I manage and update Ubuntu servers running production applications, ensuring sta
 
 ### 👓 Explore My Work
 
-- [MinuteExpert](https://github.com/superman2002/MinuteExpert): Productivity tools for time management.
 - [AutoClicker](https://github.com/superman2002/AutoClicker): Customizable autoclicker app.
-- [network_dashboard](https://github.com/superman2002/network_dashboard): Dashboard for network monitoring.
-- [network_scanner](https://github.com/superman2002/network_scanner): Tools for scanning and analyzing networks.
-- [operational](https://github.com/superman2002/operational): Scripts and utilities for server operations.
 
 ---
 
